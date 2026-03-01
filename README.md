@@ -4,4 +4,4 @@ I completed a Bank Data Analysis project in collaboration with UNP using Power B
 
 PROJECT PBIX FILE: https://drive.google.com/file/d/1Hg228azUKkWyT3-AgctD7bjJD27gvJOD/view?usp=sharing
 
-PROJECTPDF FILE: https://drive.google.com/file/d/1m0TaP2ulFtdywgpoPdMrZYTBbMZLb8RB/view?usp=sharing
+PROJECTPDF FILE: https://drive.google.com/file/d/1pCEGQoo5wlGJicaKkKghPRwARWv1qF01/view?usp=sharing
